@@ -6,17 +6,19 @@ crée sans pb ,tout va pour le mieux
 
 Il faut récupérer le programme dans le chapitre du livre 
 
-- récuperer le pdr 
+- récuperer le pdf 
 - chercher la page 
 - recuperer le programme dans un editeur 
 - exécuter 
 
-````    python 
-    toto='tata'
-i=1"
+##Verification du fonctionnement du code udp
 
-#
+python UDPServer.py 
+Le Server nous informe que le server est prêt a recevoiren indiquant: The server is ready to receive
 
-````
-
-
+python UDPClient.py
+texte ? abcd 
+ Server : il nous répond ABCD````
+ 
+ 
+ 
