@@ -1,7 +1,7 @@
 # tp1
 ##compte GitHUb
 crée sans pb ,tout va pour le mieux
-
+réseau en local 
 ## Client UDP Python 
 
 Il faut récupérer le programme dans le chapitre du livre 
@@ -21,5 +21,5 @@ texte ? abcd
  Server : il nous répond ABCD````
  
  ````
- ```
+ ```netcat 
  
