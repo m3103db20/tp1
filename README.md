@@ -20,5 +20,6 @@ python UDPClient.py
 texte ? abcd 
  Server : il nous répond ABCD````
  
- 
+ ````
+ ```
  
